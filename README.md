@@ -6,8 +6,11 @@ Just a home page.
 
 # ME
 A student coming from Nanjing, Jiangsu, China.
+
 Trying to maintain my homepage well.
+
 Studying Indoor localization technology，especially Wifi CSI and BLE DOA.
+
 Record and share.
 
 # Project
